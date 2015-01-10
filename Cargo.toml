@@ -1,0 +1,8 @@
+[package]
+
+name = "chat-server"
+version = "0.0.1"
+authors = ["Marckvdv <Marckvandervegt@gmail.com>"]
+
+[dependencies.ncurses]
+git = "https://github.com/Marckvdv/ncurses-rs"
